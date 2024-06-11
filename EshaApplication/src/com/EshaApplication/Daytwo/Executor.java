@@ -1,4 +1,4 @@
-package com.EshaApplication.Day2;
+package com.EshaApplication.Daytwo;
 import java.util.Scanner;
 
 public class Executor {

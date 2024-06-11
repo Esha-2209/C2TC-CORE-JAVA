@@ -1,4 +1,4 @@
-package com.EshaApplication.Day7;
+package com.EshaApplication.DaySeven;
 
 public class Circle extends Shape  {
 	static float pi= 3.14f;

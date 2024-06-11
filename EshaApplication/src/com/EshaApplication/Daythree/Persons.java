@@ -1,4 +1,4 @@
-package com.EshaApplication.Day3;
+package com.EshaApplication.Daythree;
 // Demo on "HasA" Association
 public class Persons {
 	private String Name;

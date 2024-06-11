@@ -1,4 +1,4 @@
-package com.EshaApplication.Day2;
+package com.EshaApplication.Daytwo;
 
 public class Customer {
 	//Attributes

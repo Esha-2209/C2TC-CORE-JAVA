@@ -1,4 +1,4 @@
-package com.EshaApplication.Day3;
+package com.EshaApplication.Daythree;
 
 public class Address {
 	

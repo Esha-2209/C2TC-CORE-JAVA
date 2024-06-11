@@ -1,4 +1,4 @@
-package com.EshaApplication.Day7;
+package com.EshaApplication.DaySeven;
 
 public class Rectangle extends Shape {
 	float length,breadth;
